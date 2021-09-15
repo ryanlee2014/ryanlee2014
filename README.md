@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Ryan Lee, former ACMer, currently working on Alibaba as a Java backend software engineer.
+This is Ryan Lee, former ACMer, used to work at Alibaba, currently working on Bytedance as a Java backend software engineer.
 
 
 ![](https://github-readme-stats.vercel.app/api?username=ryanlee2014&show_icons=true&include_all_commits=true&theme=solarized-dark)
